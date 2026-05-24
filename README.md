@@ -8,15 +8,15 @@
 
 ### Tecnologías y Nivel
 
-![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
-![CSS](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![Git](https://img.shields.io/badge/Git-75%25-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
-![Python](https://img.shields.io/badge/Python/Flask-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
-![React](https://img.shields.io/badge/React-65%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e)
-![SQLite](https://img.shields.io/badge/SQLite-60%25-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a2e)
-![Vite](https://img.shields.io/badge/Vite-55%25-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a2e)
-![VS Code](https://img.shields.io/badge/VS_Code-95%25-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e)
+| Tecnología | Nivel |
+|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | 90% ████████████████████░░ |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | 85% ███████████████████░░░ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 80% ██████████████████░░░░ |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | 75% █████████████████░░░░░ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 70% ████████████████░░░░░░ |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | 65% ███████████████░░░░░░░ |
+| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | 60% ██████████████░░░░░░░░ |
 
 ---
 
