@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/javierdev06/javierdev06/blob/main/banner.png?raw=true)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&width=500&lines=Hola%2C+soy+Javier+Cortés;Desarrollador+Web+Frontend;Creando+interfaces+modernas)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&width=500&lines=Hola%2C+soy+Javier+Cortes;Desarrollador+Web+Frontend;Creando+interfaces+modernas)
 
 </div>
 
