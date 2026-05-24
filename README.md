@@ -1,10 +1,12 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=200&section=header&text=Javier%20Cortés&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Frontend&descAlignY=55&descSize=20)
+![Banner](https://github.com/javierdev06/javierdev06/blob/main/banner.png?raw=true)
 
-### Hola, soy Javier 👨‍💻
+<br/>
 
-Desarrollador Web apasionado por crear interfaces modernas y soluciones digitales funcionales. Me especializo en el desarrollo Frontend con tecnologías actuales.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&width=500&lines=Desarrollador+Web+Frontend;Creando+interfaces+modernas;Aprendiendo+cada+día+más...)
+
+<br/>
 
 ---
 
@@ -17,6 +19,7 @@ Desarrollador Web apasionado por crear interfaces modernas y soluciones digitale
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -32,18 +35,6 @@ Desarrollador Web apasionado por crear interfaces modernas y soluciones digitale
 
 ---
 
-### Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [El Retiro](https://github.com/javierdev06) | Tienda web completa con panel admin, base de datos y servidor | HTML · CSS · JS · Python |
-| [FGAL Construcciones](https://fgalconstrucciones.com) | Sitio web profesional para empresa constructora | HTML · CSS · JS |
-| [Análisis Legal Ciberseguridad](https://informe-corjav.vercel.app) | Aplicación web con análisis legal en React | React · Vite |
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=javierdev06&color=4A90D9&style=for-the-badge)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1a1a2e&height=100&section=footer)
 
 </div>
