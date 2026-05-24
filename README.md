@@ -23,15 +23,13 @@
 
 ### Nivel de Habilidades
 
-```text
-HTML         ██████████████████░░  90%
-CSS          █████████████████░░░  85%
-JavaScript   ████████████████░░░░  80%
-Git          ███████████████░░░░░  75%
-Python/Flask ██████████████░░░░░░  70%
-React        █████████████░░░░░░░  65%
-SQLite       ████████████░░░░░░░░  60%
-```
+![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)
+![CSS](https://img.shields.io/badge/CSS-85%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![Git](https://img.shields.io/badge/Git-75%25-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
+![Python](https://img.shields.io/badge/Python/Flask-70%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-65%25-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
+![SQLite](https://img.shields.io/badge/SQLite-60%25-07405E?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1a2e)
 
 ---
 
