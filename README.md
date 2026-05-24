@@ -67,16 +67,33 @@
 
 ---
 
-## Estadísticas
+## Código Destacado
 
-<div align="center">
+```python
+# PROVISIONES EL RETIRO — Servidor seguro con Flask
+# Middleware de seguridad con headers HTTP
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=javierdev06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdev06&layout=compact&langs_count=7&theme=tokyonight"/>
+@app.before_request
+def bloquear_sensibles():
+    path   = request.path.lstrip("/")
+    nombre = path.split("/")[-1]
+    if nombre in BLOQUEADOS or path.startswith("."):
+        abort(403)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=javierdev06&theme=tokyonight)
+@app.after_request
+def security_headers(resp):
+    resp.headers["X-Frame-Options"]        = "SAMEORIGIN"
+    resp.headers["X-Content-Type-Options"] = "nosniff"
+    resp.headers["Referrer-Policy"]        = "strict-origin-when-cross-origin"
+    return resp
 
-</div>
+def get_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA foreign_keys=ON")
+    return conn
+```
 
 ---
 
@@ -90,9 +107,8 @@
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/javier.dev06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.dev06@gmail.com)
-[![GitHub](https://img.shields.io/badge/javierdev06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierdev06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://informe-corjav.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.dev06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierdev06)
 
 ---
 
