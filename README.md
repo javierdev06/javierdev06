@@ -47,6 +47,17 @@
 
 ## Proyectos Destacados
 
+### FGAL Construcciones
+> Sitio web profesional para empresa constructora con dominio propio
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Ver sitio](https://img.shields.io/badge/Ver_sitio_web-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fgalconstrucciones.com)
+
+---
+
 ### Provisiones El Retiro
 > Tienda web completa con carrito de compras, panel de administración y base de datos
 
@@ -56,14 +67,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### FGAL Construcciones
-> Sitio web profesional para empresa constructora con dominio propio
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Demo](https://img.shields.io/badge/Ver_sitio-000000?style=flat-square&logo=vercel&logoColor=white)](https://fgalconstrucciones.com)
+[![Repositorio privado](https://img.shields.io/badge/Repositorio_privado-333333?style=for-the-badge&logo=github&logoColor=white)]()
 
 ---
 
